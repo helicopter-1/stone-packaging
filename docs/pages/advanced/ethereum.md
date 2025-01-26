@@ -104,7 +104,7 @@ FORK_URL=<ETHEREUM-MAINNET-RPC> \
 ```
 ### 3. Successful Verification Output
 
-Upon successfull proof verification we can get something like this 🥳
+Upon successful proof verification we can get something like this 🥳
 
 ```
 Anvil is running.
